@@ -1,0 +1,13 @@
+candidate_id,category,zone,screening_score,verified,training_passed,activation_day,training_pressure_index,next_action
+C013,Bathroom Cleaning,Manikonda,96,1,1,13,0.901,Activate after final verification
+C005,Bathroom Cleaning,Kukatpally,91,1,1,13,0.832,Activate after final verification
+C009,AC Repair,Kondapur,77,1,1,13,0.832,Activate after final verification
+C011,Electrician,Gachibowli,78,1,1,15,0.827,Activate after final verification
+C014,Electrician,Kondapur,80,1,1,14,0.812,Activate after final verification
+C029,Bathroom Cleaning,Kondapur,84,1,1,13,0.788,Activate after final verification
+C021,Bathroom Cleaning,Gachibowli,94,1,1,13,0.741,Activate after final verification
+C010,Bathroom Cleaning,Kukatpally,90,1,1,14,0.832,Activate after final verification
+C004,AC Repair,Kondapur,76,1,1,16,0.832,Activate after final verification
+C037,Bathroom Cleaning,HITEC City,94,1,1,13,0.663,Activate after final verification
+C022,Electrician,HITEC City,82,1,1,14,0.654,Activate after final verification
+C038,Electrician,Manikonda,93,1,1,14,0.651,Activate after final verification

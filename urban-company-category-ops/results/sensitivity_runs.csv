@@ -1,0 +1,31 @@
+stress_test,seed,demand_multiplier,availability_multiplier,scenario,requests,completed,fill_rate_pct,on_time_pct,complaint_pct
+Normal,21,1,1,Baseline,1881,1301,69.17,100.0,10.38
+Normal,21,1,1,Quality-Safe Playbook,1881,1728,91.87,85.71,9.26
+Normal,42,1,1,Baseline,1925,1350,70.13,100.0,10.96
+Normal,42,1,1,Quality-Safe Playbook,1925,1762,91.53,85.87,10.33
+Normal,63,1,1,Baseline,1876,1287,68.6,100.0,11.73
+Normal,63,1,1,Quality-Safe Playbook,1876,1683,89.71,85.32,8.5
+Normal,84,1,1,Baseline,1849,1337,72.31,100.0,10.4
+Normal,84,1,1,Quality-Safe Playbook,1849,1715,92.75,85.83,8.75
+Normal,105,1,1,Baseline,1897,1333,70.27,100.0,11.03
+Normal,105,1,1,Quality-Safe Playbook,1897,1731,91.25,86.6,10.23
+Demand +15%,21,1.15,1,Baseline,2183,1469,67.29,100.0,12.93
+Demand +15%,21,1.15,1,Quality-Safe Playbook,2183,1922,88.04,85.02,10.09
+Demand +15%,42,1.15,1,Baseline,2204,1467,66.56,100.0,10.7
+Demand +15%,42,1.15,1,Quality-Safe Playbook,2204,1927,87.43,83.96,8.3
+Demand +15%,63,1.15,1,Baseline,2153,1424,66.14,100.0,11.03
+Demand +15%,63,1.15,1,Quality-Safe Playbook,2153,1910,88.71,84.03,8.74
+Demand +15%,84,1.15,1,Baseline,2109,1427,67.66,100.0,11.49
+Demand +15%,84,1.15,1,Quality-Safe Playbook,2109,1907,90.42,86.31,10.12
+Demand +15%,105,1.15,1,Baseline,2158,1453,67.33,100.0,11.29
+Demand +15%,105,1.15,1,Quality-Safe Playbook,2158,1941,89.94,83.93,9.12
+Availability -10%,21,1,0.9,Baseline,1881,1203,63.96,100.0,10.56
+Availability -10%,21,1,0.9,Quality-Safe Playbook,1881,1676,89.1,81.98,9.19
+Availability -10%,42,1,0.9,Baseline,1925,1255,65.19,100.0,11.08
+Availability -10%,42,1,0.9,Quality-Safe Playbook,1925,1708,88.73,82.32,9.84
+Availability -10%,63,1,0.9,Baseline,1876,1196,63.75,100.0,12.54
+Availability -10%,63,1,0.9,Quality-Safe Playbook,1876,1639,87.37,82.86,9.64
+Availability -10%,84,1,0.9,Baseline,1849,1250,67.6,100.0,10.56
+Availability -10%,84,1,0.9,Quality-Safe Playbook,1849,1675,90.59,82.63,8.9
+Availability -10%,105,1,0.9,Baseline,1897,1246,65.68,100.0,11.0
+Availability -10%,105,1,0.9,Quality-Safe Playbook,1897,1682,88.67,84.01,9.69

@@ -1,0 +1,71 @@
+scenario,dimension,group,requests,assigned,completed,fill_rate_pct,on_time_pct,on_time_fulfillment_pct,complaint_pct,cancel_pct
+Baseline,zone,Banjara Hills,232,177,174,75.0,100.0,75.0,10.34,1.69
+Baseline,zone,Gachibowli,277,192,182,65.7,100.0,65.7,8.24,5.21
+Baseline,zone,HITEC City,233,174,169,72.53,100.0,72.53,13.02,2.87
+Baseline,zone,Kondapur,262,190,182,69.47,100.0,69.47,9.34,4.21
+Baseline,zone,Kukatpally,240,178,166,69.17,100.0,69.17,14.46,6.74
+Baseline,zone,Madhapur,275,190,187,68.0,100.0,68.0,12.3,1.58
+Baseline,zone,Manikonda,216,150,145,67.13,100.0,67.13,7.59,3.33
+Baseline,zone,Miyapur,190,149,145,76.32,100.0,76.32,12.41,2.68
+Baseline,category,AC Repair,630,458,441,70.0,100.0,70.0,11.34,3.71
+Baseline,category,Bathroom Cleaning,639,461,439,68.7,100.0,68.7,12.07,4.77
+Baseline,category,Electrician,656,481,470,71.65,100.0,71.65,9.57,2.29
+Baseline,slot,Afternoon,658,498,475,72.19,100.0,72.19,14.32,4.62
+Baseline,slot,Evening,780,506,493,63.21,100.0,63.21,10.34,2.57
+Baseline,slot,Morning,487,396,382,78.44,100.0,78.44,7.59,3.54
+Zone Pooling,zone,Banjara Hills,232,209,206,88.79,85.44,75.86,13.59,1.44
+Zone Pooling,zone,Gachibowli,277,250,235,84.84,81.28,68.95,9.79,6.0
+Zone Pooling,zone,HITEC City,233,216,210,90.13,83.33,75.11,15.24,2.78
+Zone Pooling,zone,Kondapur,262,244,235,89.69,87.23,78.24,8.94,3.69
+Zone Pooling,zone,Kukatpally,240,214,201,83.75,88.06,73.75,14.93,6.07
+Zone Pooling,zone,Madhapur,275,263,258,93.82,79.84,74.91,13.18,1.9
+Zone Pooling,zone,Manikonda,216,199,188,87.04,80.85,70.37,7.98,5.53
+Zone Pooling,zone,Miyapur,190,179,173,91.05,90.75,82.63,13.29,3.35
+Zone Pooling,category,AC Repair,630,578,557,88.41,84.38,74.6,11.85,3.63
+Zone Pooling,category,Bathroom Cleaning,639,593,563,88.11,83.48,73.55,12.43,5.06
+Zone Pooling,category,Electrician,656,603,586,89.33,85.15,76.07,11.95,2.82
+Zone Pooling,slot,Afternoon,658,617,587,89.21,86.37,77.05,14.82,4.86
+Zone Pooling,slot,Evening,780,678,656,84.1,78.51,66.03,11.28,3.24
+Zone Pooling,slot,Morning,487,479,463,95.07,90.06,85.63,9.72,3.34
+Pooling + Onboarding,zone,Banjara Hills,232,210,207,89.22,86.96,77.59,12.08,1.43
+Pooling + Onboarding,zone,Gachibowli,277,260,248,89.53,86.29,77.26,10.89,4.62
+Pooling + Onboarding,zone,HITEC City,233,222,213,91.42,87.32,79.83,15.49,4.05
+Pooling + Onboarding,zone,Kondapur,262,253,244,93.13,89.34,83.21,9.43,3.56
+Pooling + Onboarding,zone,Kukatpally,240,221,207,86.25,89.37,77.08,14.98,6.33
+Pooling + Onboarding,zone,Madhapur,275,268,260,94.55,78.85,74.55,12.69,2.99
+Pooling + Onboarding,zone,Manikonda,216,204,195,90.28,80.51,72.69,7.69,4.41
+Pooling + Onboarding,zone,Miyapur,190,183,176,92.63,89.77,83.16,13.64,3.83
+Pooling + Onboarding,category,AC Repair,630,589,566,89.84,83.22,74.76,11.84,3.9
+Pooling + Onboarding,category,Bathroom Cleaning,639,612,583,91.24,86.45,78.87,12.69,4.74
+Pooling + Onboarding,category,Electrician,656,620,601,91.62,87.85,80.49,11.65,3.06
+Pooling + Onboarding,slot,Afternoon,658,633,605,91.95,87.77,80.7,13.88,4.42
+Pooling + Onboarding,slot,Evening,780,708,681,87.31,80.76,70.51,11.16,3.81
+Pooling + Onboarding,slot,Morning,487,480,464,95.28,90.95,86.65,10.99,3.33
+Quality-Safe Playbook,zone,Banjara Hills,232,210,208,89.66,87.02,78.02,10.58,0.95
+Quality-Safe Playbook,zone,Gachibowli,277,260,250,90.25,86.4,77.98,8.4,3.85
+Quality-Safe Playbook,zone,HITEC City,233,222,214,91.85,86.92,79.83,14.49,3.6
+Quality-Safe Playbook,zone,Kondapur,262,253,245,93.51,89.39,83.59,8.57,3.16
+Quality-Safe Playbook,zone,Kukatpally,240,221,211,87.92,89.57,78.75,9.95,4.52
+Quality-Safe Playbook,zone,Madhapur,275,268,261,94.91,78.54,74.55,10.73,2.61
+Quality-Safe Playbook,zone,Manikonda,216,204,197,91.2,80.71,73.61,7.61,3.43
+Quality-Safe Playbook,zone,Miyapur,190,183,176,92.63,89.77,83.16,13.07,3.83
+Quality-Safe Playbook,category,AC Repair,630,589,570,90.48,83.33,75.4,10.0,3.23
+Quality-Safe Playbook,category,Bathroom Cleaning,639,612,589,92.18,86.25,79.5,11.71,3.76
+Quality-Safe Playbook,category,Electrician,656,620,603,91.92,87.89,80.79,9.29,2.74
+Quality-Safe Playbook,slot,Afternoon,658,633,613,93.16,87.77,81.76,11.09,3.16
+Quality-Safe Playbook,slot,Evening,780,708,683,87.56,80.67,70.64,9.81,3.53
+Quality-Safe Playbook,slot,Morning,487,480,466,95.69,90.99,87.06,10.09,2.92
+Peak-Shift Experiment,zone,Banjara Hills,232,205,202,87.07,88.12,76.72,9.9,1.46
+Peak-Shift Experiment,zone,Gachibowli,277,260,250,90.25,82.8,74.73,9.6,3.85
+Peak-Shift Experiment,zone,HITEC City,233,226,219,93.99,83.56,78.54,10.96,3.1
+Peak-Shift Experiment,zone,Kondapur,262,257,248,94.66,90.32,85.5,9.27,3.5
+Peak-Shift Experiment,zone,Kukatpally,240,216,208,86.67,87.02,75.42,10.58,3.7
+Peak-Shift Experiment,zone,Madhapur,275,265,258,93.82,77.13,72.36,11.63,2.64
+Peak-Shift Experiment,zone,Manikonda,216,204,197,91.2,77.66,70.83,9.14,3.43
+Peak-Shift Experiment,zone,Miyapur,190,182,175,92.11,85.14,78.42,8.57,3.85
+Peak-Shift Experiment,category,AC Repair,630,582,563,89.37,81.53,72.86,10.48,3.26
+Peak-Shift Experiment,category,Bathroom Cleaning,639,613,590,92.33,84.24,77.78,10.68,3.75
+Peak-Shift Experiment,category,Electrician,656,620,604,92.07,85.76,78.96,8.94,2.58
+Peak-Shift Experiment,slot,Afternoon,658,641,619,94.07,88.05,82.83,9.85,3.43
+Peak-Shift Experiment,slot,Evening,780,716,691,88.59,80.9,71.67,10.42,3.49
+Peak-Shift Experiment,slot,Morning,487,458,447,91.79,82.77,75.98,9.62,2.4

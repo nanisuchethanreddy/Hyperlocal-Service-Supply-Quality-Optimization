@@ -1,0 +1,9 @@
+zone,demand_index,cluster,adjacent_zones
+Gachibowli,1.3,west,Kondapur;Manikonda;HITEC City
+Kondapur,1.2,west,Gachibowli;Madhapur;HITEC City;Miyapur
+Madhapur,1.25,central,Kondapur;HITEC City;Banjara Hills;Kukatpally
+HITEC City,1.15,central,Gachibowli;Kondapur;Madhapur;Manikonda
+Kukatpally,1.05,north,Miyapur;Madhapur
+Miyapur,0.85,north,Kukatpally;Kondapur
+Manikonda,1.05,west,Gachibowli;HITEC City;Banjara Hills
+Banjara Hills,1.0,central,Madhapur;Manikonda

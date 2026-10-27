@@ -1,0 +1,49 @@
+scenario,zone,category,requests,completed,fill_rate_pct,unserved_no_supply,on_time_fulfillment_pct
+Baseline,Gachibowli,Bathroom Cleaning,101,62,61.39,30,61.39
+Baseline,Manikonda,Bathroom Cleaning,60,38,63.33,18,63.33
+Baseline,Kondapur,Bathroom Cleaning,103,66,64.08,27,64.08
+Baseline,Gachibowli,Electrician,92,60,65.22,26,65.22
+Baseline,Madhapur,AC Repair,87,57,65.52,29,65.52
+Baseline,Manikonda,AC Repair,85,56,65.88,26,65.88
+Baseline,Kukatpally,AC Repair,84,56,66.67,23,66.67
+Baseline,Madhapur,Bathroom Cleaning,85,57,67.06,23,67.06
+Baseline,Kukatpally,Electrician,84,57,67.86,19,67.86
+Baseline,Miyapur,AC Repair,71,49,69.01,19,69.01
+Baseline,HITEC City,Electrician,84,58,69.05,23,69.05
+Baseline,Madhapur,Electrician,103,73,70.87,24,70.87
+Baseline,Gachibowli,AC Repair,84,60,71.43,15,71.43
+Baseline,Manikonda,Electrician,71,51,71.83,14,71.83
+Baseline,Banjara Hills,Bathroom Cleaning,83,60,72.29,18,72.29
+Baseline,Kondapur,Electrician,83,60,72.29,19,72.29
+Baseline,Kukatpally,Bathroom Cleaning,72,53,73.61,12,73.61
+Baseline,Kondapur,AC Repair,76,56,73.68,16,73.68
+Baseline,HITEC City,AC Repair,69,51,73.91,14,73.91
+Baseline,HITEC City,Bathroom Cleaning,80,60,75.0,16,75.0
+Baseline,Banjara Hills,AC Repair,74,56,75.68,12,75.68
+Baseline,Banjara Hills,Electrician,75,58,77.33,16,77.33
+Baseline,Miyapur,Bathroom Cleaning,55,43,78.18,12,78.18
+Baseline,Miyapur,Electrician,64,53,82.81,10,82.81
+Quality-Safe Playbook,Kukatpally,AC Repair,84,71,84.52,8,71.43
+Quality-Safe Playbook,Banjara Hills,AC Repair,74,64,86.49,9,75.68
+Quality-Safe Playbook,Gachibowli,AC Repair,84,74,88.1,6,73.81
+Quality-Safe Playbook,Gachibowli,Bathroom Cleaning,101,90,89.11,7,76.24
+Quality-Safe Playbook,Kukatpally,Electrician,84,75,89.29,5,77.38
+Quality-Safe Playbook,Kukatpally,Bathroom Cleaning,72,65,90.28,4,88.89
+Quality-Safe Playbook,HITEC City,Electrician,84,76,90.48,5,80.95
+Quality-Safe Playbook,Manikonda,AC Repair,85,77,90.59,5,71.76
+Quality-Safe Playbook,Miyapur,Electrician,64,58,90.63,3,82.81
+Quality-Safe Playbook,Banjara Hills,Electrician,75,68,90.67,6,80.0
+Quality-Safe Playbook,Manikonda,Electrician,71,65,91.55,4,80.28
+Quality-Safe Playbook,Banjara Hills,Bathroom Cleaning,83,76,91.57,5,78.31
+Quality-Safe Playbook,Manikonda,Bathroom Cleaning,60,55,91.67,2,68.33
+Quality-Safe Playbook,Kondapur,AC Repair,76,70,92.11,3,84.21
+Quality-Safe Playbook,HITEC City,Bathroom Cleaning,80,74,92.5,2,78.75
+Quality-Safe Playbook,HITEC City,AC Repair,69,64,92.75,3,79.71
+Quality-Safe Playbook,Kondapur,Electrician,83,77,92.77,3,84.34
+Quality-Safe Playbook,Madhapur,Bathroom Cleaning,85,79,92.94,1,74.12
+Quality-Safe Playbook,Miyapur,AC Repair,71,66,92.96,1,77.46
+Quality-Safe Playbook,Gachibowli,Electrician,92,86,93.48,4,83.7
+Quality-Safe Playbook,Miyapur,Bathroom Cleaning,55,52,94.55,1,90.91
+Quality-Safe Playbook,Kondapur,Bathroom Cleaning,103,98,95.15,2,82.52
+Quality-Safe Playbook,Madhapur,Electrician,103,98,95.15,3,77.67
+Quality-Safe Playbook,Madhapur,AC Repair,87,84,96.55,3,71.26

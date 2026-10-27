@@ -1,0 +1,20 @@
+{
+  "city": "Hyderabad",
+  "simulation_dates": "2026-09-01 to 2026-09-28",
+  "training_days": 10,
+  "onboarding_start_day": 13,
+  "service_slot_hours": 4,
+  "existing_partners": 96,
+  "new_partners_selected": 12,
+  "max_jobs_per_partner_per_day": 2,
+  "onboarding_cost_inr_per_partner": 1500,
+  "partner_coaching_cost_inr_each": 450,
+  "peak_shift_coordination_cost_inr_each": 200,
+  "booking_values_are_illustrative": true,
+  "on_time_eta_proxy_limit_minutes": 45,
+  "quality_coaching_cancellation_reduction_relative": 0.22,
+  "quality_coaching_complaint_reduction_relative": 0.25,
+  "primary_evaluation_window": "days 11-28 (out-of-sample from 10-day planning window)",
+  "geographic_proxy": "illustrative one-hop zone adjacency, not actual road network",
+  "partner_quality_score_rule": "synthetic rating less than 4.5 eligible for coaching"
+}

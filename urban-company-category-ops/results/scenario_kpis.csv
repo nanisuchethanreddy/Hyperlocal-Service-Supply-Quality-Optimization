@@ -1,0 +1,6 @@
+scenario,requests,assigned,completed,fill_rate_pct,assignment_rate_pct,partner_cancellations,cancellation_pct_of_assigned,on_time_pct_of_completed,on_time_fulfillment_pct,complaint_pct_of_completed,avg_rating,completed_booking_value_proxy_inr,unsupplied_requests,partner_declined_requests,partner_slots_available,partner_slot_utilization_pct,partners_active_in_model,new_partners_selected,new_partners_used,coached_partners,flex_shift_changes,model_program_spend_inr
+Baseline,1925,1400,1350,70.13,72.73,50,3.57,100.0,70.13,10.96,4.315,1138300,461,64,2535,55.23,96,0,0,0,0,0
+Zone Pooling,1925,1774,1706,88.62,92.16,68,3.83,84.35,74.75,12.08,4.295,1442900,131,20,2535,69.98,96,0,0,0,0,0
+Pooling + Onboarding,1925,1821,1750,90.91,94.6,71,3.9,85.89,78.08,12.06,4.314,1481250,95,9,2814,64.71,108,12,12,0,0,18000
+Quality-Safe Playbook,1925,1821,1762,91.53,94.6,59,3.24,85.87,78.6,10.33,4.329,1492550,95,9,2814,64.71,108,12,12,57,0,43650
+Peak-Shift Experiment,1925,1815,1757,91.27,94.29,58,3.2,83.89,76.57,10.02,4.334,1487900,93,17,2808,64.64,108,12,12,57,16,46850

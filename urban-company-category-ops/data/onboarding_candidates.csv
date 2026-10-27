@@ -1,0 +1,46 @@
+candidate_id,category,zone,acquisition_channel,screening_score,identity_verified,training_passed,status,eligible,readiness_day,reliability,completion_reliability,quality_score,availability,shift_pattern,weekly_day_off
+C001,AC Repair,Gachibowli,Community referral,73,1,0,Training required,0,13,0.914,0.955,4.55,0.942,"Morning,Afternoon",0
+C002,Bathroom Cleaning,HITEC City,Job fair,86,1,1,Ready,1,14,0.962,0.975,4.48,0.887,"Afternoon,Evening",1
+C003,Electrician,Manikonda,Digital outreach,55,1,1,Assessment below threshold,0,15,0.913,0.967,4.65,0.902,"Morning,Evening",2
+C004,AC Repair,Kondapur,Community referral,76,1,1,Ready,1,16,0.925,0.959,4.58,0.936,"Morning,Afternoon",3
+C005,Bathroom Cleaning,Kukatpally,Job fair,91,1,1,Ready,1,13,0.904,0.953,4.61,0.899,"Afternoon,Evening",4
+C006,Electrician,Gachibowli,Digital outreach,70,1,1,Assessment below threshold,0,14,0.955,0.98,4.7,0.841,"Morning,Evening",5
+C007,AC Repair,HITEC City,Community referral,64,1,1,Assessment below threshold,0,15,0.892,0.96,4.59,0.929,"Morning,Afternoon",6
+C008,Bathroom Cleaning,Manikonda,Job fair,58,1,0,Training required,0,16,0.923,0.975,4.42,0.907,"Afternoon,Evening",0
+C009,AC Repair,Kondapur,Digital outreach,77,1,1,Ready,1,13,0.91,0.976,4.3,0.915,"Morning,Evening",1
+C010,Bathroom Cleaning,Kukatpally,Community referral,90,1,1,Ready,1,14,0.899,0.967,4.41,0.944,"Morning,Afternoon",2
+C011,Electrician,Gachibowli,Job fair,78,1,1,Ready,1,15,0.894,0.96,4.81,0.874,"Afternoon,Evening",3
+C012,AC Repair,HITEC City,Digital outreach,91,1,0,Training required,0,16,0.943,0.99,4.66,0.943,"Morning,Evening",4
+C013,Bathroom Cleaning,Manikonda,Community referral,96,1,1,Ready,1,13,0.939,0.979,4.6,0.926,"Morning,Afternoon",5
+C014,Electrician,Kondapur,Job fair,80,1,1,Ready,1,14,0.962,0.98,4.58,0.846,"Afternoon,Evening",6
+C015,AC Repair,Kukatpally,Digital outreach,66,1,1,Assessment below threshold,0,15,0.941,0.981,4.61,0.898,"Morning,Evening",0
+C016,Bathroom Cleaning,Gachibowli,Community referral,67,1,0,Training required,0,16,0.896,0.961,4.46,0.855,"Morning,Afternoon",1
+C017,AC Repair,HITEC City,Job fair,79,0,0,Screening failed,0,13,0.901,0.959,4.72,0.909,"Afternoon,Evening",2
+C018,Bathroom Cleaning,Manikonda,Digital outreach,57,1,1,Assessment below threshold,0,14,0.923,0.972,4.55,0.839,"Morning,Evening",3
+C019,Electrician,Kondapur,Community referral,74,0,0,Screening failed,0,15,0.962,0.973,4.72,0.93,"Morning,Afternoon",4
+C020,AC Repair,Kukatpally,Job fair,90,1,1,Ready,1,16,0.92,0.95,4.51,0.915,"Afternoon,Evening",5
+C021,Bathroom Cleaning,Gachibowli,Digital outreach,94,1,1,Ready,1,13,0.966,0.967,4.75,0.886,"Morning,Evening",6
+C022,Electrician,HITEC City,Community referral,82,1,1,Ready,1,14,0.908,0.959,4.56,0.814,"Morning,Afternoon",0
+C023,AC Repair,Manikonda,Job fair,70,1,1,Assessment below threshold,0,15,0.944,0.966,4.4,0.875,"Afternoon,Evening",1
+C024,Bathroom Cleaning,Kondapur,Digital outreach,60,1,1,Assessment below threshold,0,16,0.94,0.951,4.54,0.889,"Morning,Evening",2
+C025,AC Repair,Kukatpally,Community referral,56,1,1,Assessment below threshold,0,13,0.941,0.955,4.58,0.817,"Morning,Afternoon",3
+C026,Bathroom Cleaning,Gachibowli,Job fair,72,1,0,Training required,0,14,0.907,0.963,4.76,0.863,"Afternoon,Evening",4
+C027,Electrician,HITEC City,Digital outreach,89,1,0,Training required,0,15,0.957,0.96,4.35,0.813,"Morning,Evening",5
+C028,AC Repair,Manikonda,Community referral,79,1,1,Ready,1,16,0.97,0.964,4.69,0.919,"Morning,Afternoon",6
+C029,Bathroom Cleaning,Kondapur,Job fair,84,1,1,Ready,1,13,0.95,0.988,4.42,0.813,"Afternoon,Evening",0
+C030,Electrician,Kukatpally,Digital outreach,62,0,1,Screening failed,0,14,0.9,0.977,4.64,0.841,"Morning,Evening",1
+C031,AC Repair,Gachibowli,Community referral,87,0,1,Screening failed,0,15,0.951,0.957,4.66,0.915,"Morning,Afternoon",2
+C032,Bathroom Cleaning,HITEC City,Job fair,60,1,1,Assessment below threshold,0,16,0.956,0.989,4.36,0.814,"Afternoon,Evening",3
+C033,AC Repair,Manikonda,Digital outreach,69,1,1,Assessment below threshold,0,13,0.944,0.988,4.54,0.91,"Morning,Evening",4
+C034,Bathroom Cleaning,Kondapur,Community referral,58,1,1,Assessment below threshold,0,14,0.945,0.975,4.36,0.918,"Morning,Afternoon",5
+C035,Electrician,Kukatpally,Job fair,94,0,1,Screening failed,0,15,0.938,0.955,4.89,0.92,"Afternoon,Evening",6
+C036,AC Repair,Gachibowli,Digital outreach,70,1,1,Assessment below threshold,0,16,0.924,0.965,4.6,0.858,"Morning,Evening",0
+C037,Bathroom Cleaning,HITEC City,Community referral,94,1,1,Ready,1,13,0.956,0.954,4.88,0.899,"Morning,Afternoon",1
+C038,Electrician,Manikonda,Job fair,93,1,1,Ready,1,14,0.947,0.967,4.74,0.945,"Afternoon,Evening",2
+C039,AC Repair,Kondapur,Digital outreach,67,1,1,Assessment below threshold,0,15,0.955,0.972,4.59,0.871,"Morning,Evening",3
+C040,Bathroom Cleaning,Kukatpally,Community referral,88,1,1,Ready,1,16,0.911,0.984,4.8,0.822,"Morning,Afternoon",4
+C041,AC Repair,Gachibowli,Job fair,95,0,1,Screening failed,0,13,0.91,0.969,4.67,0.863,"Afternoon,Evening",5
+C042,Bathroom Cleaning,HITEC City,Digital outreach,56,1,1,Assessment below threshold,0,14,0.958,0.957,4.43,0.922,"Morning,Evening",6
+C043,Electrician,Manikonda,Community referral,70,1,1,Assessment below threshold,0,15,0.96,0.978,4.47,0.811,"Morning,Afternoon",0
+C044,AC Repair,Kondapur,Job fair,98,0,1,Screening failed,0,16,0.897,0.979,4.59,0.916,"Afternoon,Evening",1
+C045,Bathroom Cleaning,Kukatpally,Digital outreach,86,1,0,Training required,0,13,0.942,0.97,4.78,0.823,"Morning,Evening",2
